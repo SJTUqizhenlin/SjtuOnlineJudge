@@ -1,3 +1,4 @@
+//This is actually a model of HPint, which can be used anywhere High Precision is required
 #include <iostream>
 #include <string.h>
 
