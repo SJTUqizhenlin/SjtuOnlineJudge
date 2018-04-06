@@ -1,0 +1,2 @@
+//passed
+//just HP int
