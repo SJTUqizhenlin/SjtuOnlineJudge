@@ -1,3 +1,8 @@
+//In this problem, answer is mod by 2010,
+//and fib sequence f(n) is only related to
+//f(n - 1) and f(n - 2), so "f(n) mod 2010"
+//will be in loop with length less than 2010^2,
+//but by experiment, looplen==2041
 #include <iostream>
 #include <vector>
 
