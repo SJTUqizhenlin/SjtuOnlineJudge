@@ -1,3 +1,6 @@
+// here is a very magic proof for this result,
+// when x >= 1, first to go, first to win
+
 #include <iostream>
 
 using namespace std;
