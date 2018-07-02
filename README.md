@@ -1,8 +1,8 @@
 # SjtuOnlineJudge
 code for sjtu online judge
 
-website url is:
-
-https://acm.sjtu.edu.cn/OnlineJudge
-
-"Count for files": 133
+{
+    "url": "https://acm.sjtu.edu.cn/OnlineJudge",
+    "Count for files": 133,
+    "latest online judge": "02/07/18"
+}
