@@ -3,6 +3,6 @@ code for sjtu online judge
 
 {
     "url": "https://acm.sjtu.edu.cn/OnlineJudge",
-    "Count for files": 191,
-    "latest online judge": "12/07/18"
+    "Count for files": 302,
+    "latest online judge": "13/07/18"
 }
